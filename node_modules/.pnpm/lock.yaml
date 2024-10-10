@@ -1,0 +1,12 @@
+dependencies:
+  bootstrap: 5.3.3
+lockfileVersion: 5.2
+packages:
+  /bootstrap/5.3.3:
+    dev: false
+    peerDependencies:
+      '@popperjs/core': ^2.11.8
+    resolution:
+      integrity: sha512-8HLCdWgyoMguSO9o+aH+iuZ+aht+mzW0u3HIMzVu7Srrpv7EBBxTnrFlSCskwdY1+EOFQSm7uMJhNQHkdPcmjg==
+specifiers:
+  bootstrap: ^5.3.3
