@@ -12,7 +12,7 @@ const element = (
     <h1 className='heading'>Social Buttons</h1>
     <div>
       <Button name='Like' classBtn='button like' />
-      <Button name='Comment' classBtn='button comment' />
+      <Button name='Comment' classBtn='button comment ms-5' />
       <Button name='Share' classBtn='button share' />
     </div>
   </div>
